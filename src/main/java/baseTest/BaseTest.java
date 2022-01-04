@@ -13,6 +13,7 @@ public class BaseTest {
 		System.setProperty("webdriver.gecko.driver", "E:\\SeleniumJars\\geckodriver.exe");
 		driver = new FirefoxDriver();
 		driver.get("https://www.facebook.com/");
+		//*********************
 		
 		
 	}
